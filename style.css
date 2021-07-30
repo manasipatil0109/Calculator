@@ -24,6 +24,7 @@ body{
 .main .calculatorForm .screen{
     background-color: #000;
     color: white;
+    font-weight: 100;
 }
 .main .calculatorForm div{
 	height: calc(450px/6);
